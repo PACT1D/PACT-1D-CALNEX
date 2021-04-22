@@ -1,1 +1,0 @@
-When running the model, it will write output to this folder.
