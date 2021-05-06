@@ -12,17 +12,19 @@ NO2                 -             1.0E-5           6
 NO3                 -             2.0E-3           7
 O3                  -             5.0E-5           8
 HCl                 -             5.0E-5           9 
-HOCl                -             5.0E-5           10 
+Cl2                 -             5.0E-5           10
+ClONO2              -             5.0E-5           11
 
 ##Surface reactions on aerosols
 ##column 1 - gas phase reactant, column 2 product, column 3 - reaction probability gamma, column 4 - surface reaction index
 ##reactant           product       gamma           reaction index
 HNO3                 NO3Aer        0.1             1
 N2O5                 NO3Aer        0.02             5
-ClONO2               Cl2+HNO3a     0.1             11   
-ClONO2               HOCl+HNO3a    0.1             12   
-N2O5                 ClNO2         0.02             13
-HO                   Cl2           0.2             14 
+HOCl                 Cl2           5.0E-5          12   
+ClONO2               Cl2+HNO3a     0.1             13   
+ClONO2               HOCl+HNO3a    0.1             14   
+N2O5                 ClNO2         0.02            15   
+HO                   Cl2           0.2             16
 
 
 
