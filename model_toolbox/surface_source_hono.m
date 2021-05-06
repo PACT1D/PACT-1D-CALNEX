@@ -64,7 +64,7 @@ photEnh_surf_source_t(HONO_ind,level1) = 1*day_night_ratio*depo_rate(NO2_ind)*fa
 %%% Surface HNO3 photolysis %%%
 % HNO3(ads) = 0.5 HONO(ads) + 0.5 NO2(ads)      (from Sarwar et al, 2008)
 % All HONO(ads) and NO2(ads) formed is emitted to lowest box
-% Surface HNO3 phot rate is 45x J_HNO3 (Zhou, 2003; Karamchandani, 2015)
+% Surface HNO3 phot rate is 50x J_HNO3 (Zhou, 2003; Karamchandani, 2015)
 
 J_HNO3_surf = 45*J_HNO3;
 

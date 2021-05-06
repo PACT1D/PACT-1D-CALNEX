@@ -78,7 +78,7 @@ Convert_cm = 10^(6);
 %Special case for emissions in box 1
 emissions(:,1,:) = emissions(:,1,:)*Avogadro/(Convert_cm*BOX_WALL(1));
 
-for l=2:NLEV-1
+for l=2:NLEV
     emissions(:,l,:) = emissions(:,l,:)*Avogadro/(Convert_cm*(BOX_WALL(l)-BOX_WALL(l-1)));
 end
 %emissions_t0(:,NLEV) = emissions_t0(:,NLEV-1)
