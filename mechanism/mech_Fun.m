@@ -16,7 +16,7 @@
 %     Valeriu Damian & Adrian Sandu                                
 %                                                                  
 % File                 : mech_Fun.m                                
-% Time                 : Tue May 11 22:47:13 1971                  
+% Time                 : Sat Oct 10 19:20:17 1970                  
 % Working directory    : /home/sahmed/mechanism                    
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      

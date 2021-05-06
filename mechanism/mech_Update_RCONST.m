@@ -461,10 +461,10 @@ M_conc = get_M_CONC();
    RCONST(417) = (2.20E-5*1.0) ;
    RCONST(418) = (2.11E-5*1.0) ;
    RCONST(419) = (1.23E-5*1.0) ;
-   RCONST(420) = (0.9841*aerosol_reaction_rates(1,TIME,GStruct)) ;
-   RCONST(421) = (1.0E-4*1.0) ;
-   RCONST(422) = (1.0E-5*1.0) ;
-   RCONST(423) = (50.0*jrates('J_HNO3',TIME,GStruct)) ;
+   RCONST(420) = (1.56*aerosol_reaction_rates(1,TIME,GStruct)) ;
+   RCONST(421) = (1.0E-10*1.0) ;
+   RCONST(422) = (1.0E-4*1.0) ;
+   RCONST(423) = (45.0*jrates('J_HNO3',TIME,GStruct)) ;
    RCONST(424) = (GStruct.xCl*7.2E-11*exp(-70.0/TEMP)) ;
    RCONST(425) = (GStruct.xCl*RACM_TROE(TEMP,M_conc,1.85E-29,3.3, ...
                   6.0E-10,0.0));
@@ -499,14 +499,14 @@ M_conc = get_M_CONC();
    RCONST(454) = (GStruct.xCl*aerosol_reaction_rates(9,TIME,GStruct)) ;
    RCONST(455) = (GStruct.xCl*aerosol_reaction_rates(10,TIME,GStruct)) ;
    RCONST(456) = (GStruct.xCl*aerosol_reaction_rates(11,TIME,GStruct)) ;
-   RCONST(457) = (GStruct.xCl*aerosol_reaction_rates(10,TIME, ...
+   RCONST(457) = (GStruct.xCl*aerosol_reaction_rates(12,TIME, ...
                   GStruct)/VAR(ind_HCl));
-   RCONST(458) = (GStruct.xCl*aerosol_reaction_rates(11,TIME, ...
+   RCONST(458) = (GStruct.xCl*aerosol_reaction_rates(13,TIME, ...
                   GStruct)/VAR(ind_HCl));
-   RCONST(459) = (GStruct.xCl*aerosol_reaction_rates(12,TIME,GStruct)) ;
-   RCONST(460) = (GStruct.xCl*aerosol_reaction_rates(13,TIME, ...
+   RCONST(459) = (GStruct.xCl*aerosol_reaction_rates(14,TIME,GStruct)) ;
+   RCONST(460) = (GStruct.xCl*aerosol_reaction_rates(15,TIME, ...
                   GStruct)/VAR(ind_HCl));
-   RCONST(461) = (GStruct.xCl*aerosol_reaction_rates(14,TIME, ...
+   RCONST(461) = (GStruct.xCl*aerosol_reaction_rates(16,TIME, ...
                   GStruct)/VAR(ind_HCl));
    RCONST = RCONST(:);
       
@@ -531,7 +531,7 @@ return
 %        R. Sander, Max-Planck Institute for Chemistry, Mainz, Germany
 %                                                                  
 % File                 : mech_Rates.m                              
-% Time                 : Thu Mar 11 21:32:12 2021                  
+% Time                 : Thu Apr 15 22:20:51 2021                  
 % Working directory    : /home/sahmed/mechanism                    
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      

@@ -13,7 +13,7 @@
 %        R. Sander, Max-Planck Institute for Chemistry, Mainz, Germany
 %                                                                  
 % File                 : mech_Rates.m                              
-% Time                 : Thu Mar 11 21:32:12 2021                  
+% Time                 : Thu Apr 15 22:20:51 2021                  
 % Working directory    : /home/sahmed/mechanism                    
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      
