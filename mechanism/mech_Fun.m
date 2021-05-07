@@ -16,8 +16,8 @@
 %     Valeriu Damian & Adrian Sandu                                
 %                                                                  
 % File                 : mech_Fun.m                                
-% Time                 : Sat Oct 10 19:20:17 1970                  
-% Working directory    : /home/sahmed/mechanism                    
+% Time                 : Wed Aug  5 22:31:14 1970                  
+% Working directory    : /home/katie/PACT1D/new_mech_May2021/mechanism
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      
 %                                                                  

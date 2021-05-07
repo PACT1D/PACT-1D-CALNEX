@@ -14,8 +14,8 @@
 %     Valeriu Damian & Adrian Sandu                                
 %                                                                  
 % File                 : mech_GetMass.m                            
-% Time                 : Thu Jan  1 01:00:00 1970                  
-% Working directory    : /home/sahmed/mechanism                    
+% Time                 : Sun Feb  1 18:17:04 4461609               
+% Working directory    : /home/katie/PACT1D/new_mech_May2021/mechanism
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      
 %                                                                  

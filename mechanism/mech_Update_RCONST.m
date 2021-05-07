@@ -11,8 +11,8 @@
 %     Valeriu Damian & Adrian Sandu                                
 %                                                                  
 % File                 : mech_Update_RCONST.m                      
-% Time                 : Thu Jan  1 01:00:00 1970                  
-% Working directory    : /home/sahmed/mechanism                    
+% Time                 : Wed Aug  5 22:31:13 1970                  
+% Working directory    : /home/katie/PACT1D/new_mech_May2021/mechanism
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      
 %                                                                  
@@ -531,8 +531,8 @@ return
 %        R. Sander, Max-Planck Institute for Chemistry, Mainz, Germany
 %                                                                  
 % File                 : mech_Rates.m                              
-% Time                 : Thu Apr 15 22:20:51 2021                  
-% Working directory    : /home/sahmed/mechanism                    
+% Time                 : Fri May  7 13:51:21 2021                  
+% Working directory    : /home/katie/PACT1D/new_mech_May2021/mechanism
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      
 %                                                                  

@@ -14,8 +14,8 @@
 %     Valeriu Damian & Adrian Sandu                                
 %                                                                  
 % File                 : mech_Shuffle_user2kpp.m                   
-% Time                 : Thu Feb 19 18:45:26 1970                  
-% Working directory    : /home/sahmed/mechanism                    
+% Time                 : Tue Jun  3 10:08:48 4437760               
+% Working directory    : /home/katie/PACT1D/new_mech_May2021/mechanism
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      
 %                                                                  

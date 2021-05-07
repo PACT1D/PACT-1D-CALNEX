@@ -13,8 +13,8 @@
 %        R. Sander, Max-Planck Institute for Chemistry, Mainz, Germany
 %                                                                  
 % File                 : mech_Sparse.m                             
-% Time                 : Thu Apr 15 22:20:51 2021                  
-% Working directory    : /home/sahmed/mechanism                    
+% Time                 : Fri May  7 13:51:21 2021                  
+% Working directory    : /home/katie/PACT1D/new_mech_May2021/mechanism
 % Equation file        : mech.kpp                                  
 % Output root filename : mech                                      
 %                                                                  
